@@ -75,7 +75,7 @@
 		<div class="max-w-md">
 		  <h1 class="mb-5 text-5xl font-bold text-white">Impulsa tu negocio con tecnología</h1>
 		  <p class="mb-5 text-lg">Creamos soluciones personalizadas para potenciar tu presencia en línea y optimizar tu negocio.</p>
-		  <button class="btn btn-primary btn-lg bg-white text-primary border-none shadow-md hover:bg-primary  transition-all duration-300">
+		  <button class="btn btn-primary btn-lg ">
 			Conoce más
 		  </button>
 		</div>

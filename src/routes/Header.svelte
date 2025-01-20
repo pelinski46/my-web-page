@@ -8,7 +8,7 @@
 		<div class="navbar-start">
 			<!-- Mobile Dropdown Menu -->
 			<div class="dropdown">
-				<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+				<div tabindex="0" role="button" class="btn lg:hidden">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						class="h-5 w-5"
@@ -35,7 +35,7 @@
 				</ul>
 			</div>
 			<!-- Brand Name -->
-			<a class="btn btn-ghost text-xl normal-case text-white" href="/">DeltaBits</a>
+			<a class="btn btn-ghost text-xl normal-case text-white" href="{base}/my-web-page/">DeltaBits</a>
 		</div>
 
 		<!-- Navbar Center for Larger Screens -->
